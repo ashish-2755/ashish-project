@@ -16,7 +16,7 @@ Follow these steps to set up the project locally:
 
 bash
 git clone <https://github.com/ashish-2755/ashish-project.git>
-cd <ashish project>
+cd <ashish-project>
 
 
 ### 2. Create a Virtual Environment
